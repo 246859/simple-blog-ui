@@ -4,7 +4,7 @@
 
 <script setup lang="ts">
 
-</script>
+import AppLogo from "@/components/global/AppLogo.vue";</script>
 
 <style scoped>
 
